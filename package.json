@@ -1,6 +1,6 @@
 {
   "name": "@albertfdp/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./.prettierrc.js",
   "license": "MIT",
   "peerDependencies": {
